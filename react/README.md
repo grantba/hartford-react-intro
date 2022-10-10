@@ -54,7 +54,7 @@
   * [Questions](/posts/state-react/questions.md)
   * [Light Switch](https://github.com/sikaeducation/light-switch-react)
   * [MC Quiz App](https://github.com/sikaeducation/mc-quiz-app)
-* [React Dev Tools](react-dev-tools)
+* [React Dev Tools](/posts/react-dev-tools)
   * [Tutorial](https://react-devtools-tutorial.vercel.app/)
 * [Lifting State](/posts/react-lifting-state)
   * [Questions](/posts/react-lifting-state/questions.md)
