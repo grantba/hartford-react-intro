@@ -35,7 +35,6 @@ I expect the following:
 * [Taking Screenshots](/posts/sika-screenshots)
 * [Naming Guidelines](/posts/naming-guidelines)
 * [How To Ask Questions](/posts/how-to-ask-questions)
-* [GitHub Codespaces](/posts/sika-github-codespaces)
 * [Codesandbox.io](/posts/sika-codesandbox)
 * [Build and Burn](/posts/build-and-burn)
 * [Discord Setup](/posts/sika-discord-setup)
