@@ -10,6 +10,8 @@
 * [Create React App](/posts/create-react-app)
   * [Questions](/posts/create-react-app/questions.md)
   * [Drill](https://github.com/sikaeducation/create-react-app-drill)
+* [JSX](/posts/jsx)
+  * [Questions](/posts/jsx/questions.md)
 * [Applying Styles](/posts/applying-styles-react)
   * [Questions](/posts/applying-styles-react/questions.md)
   * [Binding Classes Exercise](https://github.com/sikaeducation/binding-classes-react)
