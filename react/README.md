@@ -88,3 +88,16 @@
 | [React Bagel Shop](https://youtu.be/2rjb9AEB7Lk) | Using React in an app |
 | [React Review](https://youtu.be/7_DcgDH9utA) | |
 | [React Whiteboarding](https://youtu.be/HS03fIHevtM) | |
+
+## BONUS
+
+### Testing
+
+* [Intro to Testing](/posts/testing-intro)
+* [Intro to Jest](/posts/jest-intro)
+* [Matchers](/posts/jest-matchers)
+* [Test Organization](/posts/test-organization)
+* [Spies](/posts/jest-spies)
+* [Test Library](/posts/testing-library-intro)
+* [Testing User Actions](/posts/testing-user-actions-jest)
+* [Testing React Components](/posts/testing-react-components)

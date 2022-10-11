@@ -16,4 +16,5 @@ Submit work using the [submission form](https://forms.gle/mCfsMF8NPMsnEDow5).
 
 ## Session Videos
 
-No videos yet!
+* [Diagnostic Review](https://youtu.be/LCbKqt5ESA8)
+* [Beyonce Hashes - Map, Filter](https://youtu.be/sc_VUq_4Qlc)

@@ -26,7 +26,7 @@ Use [how to ask questions](/posts/how-to-ask-questions) for advice on phrasing q
 
 ## Submitting
 
-Use the [submission form](https://github.com/sikaeducation/mc-quiz-app) to get feedback on an exercise or question set. Remember to submit a publicly visible URL for GitHub, CodeSandbox, or a deployed site, not a private or Git URL.
+Use the [submission form](https://forms.gle/mCfsMF8NPMsnEDow5) to get feedback on an exercise or question set. Remember to submit a publicly visible URL for GitHub, CodeSandbox, or a deployed site, not a private or Git URL.
 
 When submitting questions, observe the following formatting:
 

@@ -38,7 +38,7 @@ Or you could do something similar with `.forEach`:
 const usernames = []
 
 users.forEach(user => {
-  usernames.push(user)
+  usernames.push(user.username)
 })
 
 console.log(usernames) // ["Alice", "Bob", "Carrie"]
