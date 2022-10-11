@@ -20,3 +20,4 @@ Submit work using the [submission form](https://forms.gle/mCfsMF8NPMsnEDow5).
 * [Beyonce Hashes - Map, Filter](https://youtu.be/sc_VUq_4Qlc)
 * [Intro to React Components](https://youtu.be/VeZUH-s7iEs)
 * [Applicative Programming - Reduce](https://youtu.be/g3GGEPGmJHs)
+* [Component Hierarchies](https://youtu.be/HUX0jjvGzqQ)
